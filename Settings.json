@@ -1,0 +1,3 @@
+{
+  "StorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=cosmosdbcarlos;AccountKey=LshwzXPrR1wh8yRZuEy0VGz8953D0rMnFidcSal0r5YCYQoU2NXzLCxENBcjaMJo9ScuyEOj4jZ5c6EuTBY8RA==;TableEndpoint=https://cosmosdbcarlos.table.cosmos.azure.com:443/;"
+}
